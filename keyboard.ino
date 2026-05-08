@@ -1,2 +1,0 @@
-ff
-void set
