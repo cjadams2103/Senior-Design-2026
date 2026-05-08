@@ -1,4 +1,4 @@
-The Thingspeak and Nano Esp32 PDF is only for showing how to setup Thingspeak and downloading the Arduino IDE. DO NOT USE THE CODE AT THE BOTTOM. Use the code SeniorDesign26
+The Thingspeak and Nano Esp32 PDF is only for showing how to setup Thingspeak and downloading the Arduino IDE. DO NOT USE THE CODE AT THE BOTTOM. Use the code SeniorDesign26.ino
 
 On the Arduino IDE, the Board Managers to install are:
   Arduino ESP32 Boards by Arduino, Version 2.0.18-arduino.5
